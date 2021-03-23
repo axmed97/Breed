@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreedAsp", "BreedAsp\BreedAsp.csproj", "{DB5FCE09-4871-4168-B09A-A48292F2CE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5FCE09-4871-4168-B09A-A48292F2CE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5FCE09-4871-4168-B09A-A48292F2CE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5FCE09-4871-4168-B09A-A48292F2CE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5FCE09-4871-4168-B09A-A48292F2CE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376BFCF1-8994-492F-A009-75D54D461E67}
+	EndGlobalSection
+EndGlobal
